@@ -1,0 +1,13 @@
+{
+  "name": "claude-zj",
+  "owner": {
+    "name": "roneli"
+  },
+  "plugins": [
+    {
+      "name": "cc-zjstatus",
+      "source": "./cc-zjstatus",
+      "description": "Monitor Claude Code activity across multiple Zellij panes with auto-named sessions."
+    }
+  ]
+}
